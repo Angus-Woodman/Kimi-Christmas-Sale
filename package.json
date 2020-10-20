@@ -1,7 +1,7 @@
 {
-  "name": "angus_react_boilerplate",
+  "name": "Kimi-Christmas-Sale",
   "version": "1.0.0",
-  "description": "React poject boilerplate",
+  "description": "Kimi Zoet Christmas Art Sale",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode-development",
